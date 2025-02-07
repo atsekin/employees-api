@@ -1,0 +1,33 @@
+{
+  "users": [{
+    "id": 366115170645,
+    "name": "Johana Levi",
+    "status": "Working",
+    "created": "2024-03-22T05:14:36.252Z"
+  }, {
+    "id": 310946254456,
+    "name": "Avraham Cohen",
+    "status": "On Vacation",
+    "created": "2024-03-22T05:20:55.079Z"
+  }, {
+    "id": 143027113460,
+    "name": "Philip Leser",
+    "status": "Business Trip",
+    "created": "2024-03-22T05:42:18.895Z"
+  }, {
+    "id": 9571114183,
+    "name": "Nicci Troiani",
+    "status": "Business Trip",
+    "created": "2025-02-07T15:15:30.033Z"
+  }, {
+    "id": 931910735660,
+    "name": "Franz Ferdinand",
+    "status": "Working",
+    "created": "2025-02-07T15:15:51.394Z"
+  }, {
+    "id": 1738941683233,
+    "name": "Rebecca Moore",
+    "status": "Working",
+    "created": "2025-02-07T15:16:51.394Z"
+  }]
+}
